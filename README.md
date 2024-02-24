@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
-<h3 align="center">A passionate frontend developer from India, specializing in Flutter development. With a keen eye for UI/UX design and a dedication to creating seamless user experiences, I thrive on turning ideas into elegant, functional applications. With a strong foundation in Dart programming language and extensive experience in Flutter framework, I am constantly pushing the boundaries of what's possible in mobile app development.</h3>
+<h3 align="center">A passionate frontend developer from India, specializing in Flutter development. With a keen eye for UI/UX design and a dedication to creating seamless user experiences, I thrive on turning ideas into elegant, functional applications. With a strong foundation in Dart programming language and extensive experience in the Flutter framework, I am constantly pushing the boundaries of what's possible in mobile app development.</h3>
 
 - 📫 How to reach me **prateeksingh2423@gmail.com**
 
