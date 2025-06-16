@@ -34,7 +34,7 @@ A passionate Full-Stack Mobile App Developer from India with strong expertise in
 **Other Tools:** Figma, Postman, WordPress
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/flutterio-icon.svg" width="40"/> 
+  <img src="https://shorturl.at/3SBlA" width="40"/> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -47,14 +47,6 @@ A passionate Full-Stack Mobile App Developer from India with strong expertise in
 
 ---
 
-### 🧩 Featured Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Tutio**](https://github.com/prateeksingh24/Tutio-School-Management-App) | A school management app that reduces admin workload by 6+ hours/week | Flutter, Firebase |
-| [**EM Friend**](https://github.com/prateeksingh24/em_friend) | One-tap SOS emergency app with live location tracking | Flutter, Firebase, HERE APIs |
-| [**WhatsApp Clone**](https://github.com/prateeksingh24/whatsapp_clone) | A real-time encrypted messaging app with Socket.IO | Flutter, Node.js, BLoC |
-
----
 
 ### 🏆 Achievements
 - 🏅 Finalist – **HEREvolution Codefest**, BITS Pilani  
