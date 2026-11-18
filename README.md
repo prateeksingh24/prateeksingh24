@@ -1,32 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Prateek%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-founder%20%26%20CTO%20@%20MarketDeck&descAlignY=60&descSize=18" width="100%" alt="Prateek Singh, Co-founder and CTO of MarketDeck"/>
+<h1 align="center">Hi 👋, I'm Prateek Singh</h1>
 
-<h3 align="center">
-  <a href="https://marketdeck.in">MarketDeck</a> Co-founder &amp; CTO · Flutter &amp; Full-Stack Engineer · Lucknow, India
-</h3>
+<h3 align="center">Software Engineer · Flutter &amp; Full-Stack Developer · Co-founder &amp; CTO, <a href="https://marketdeck.in">MarketDeck</a></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+MarketDeck%2C+a+finance+research+platform;Shipping+fast%3A+web%2C+PWA+and+Android;Flutter+%7C+Firebase+%7C+Node.js+%7C+Python;Exploring+Web3+and+DApps" alt="Typing animation"/>
+  <a href="https://www.linkedin.com/in/aprateeksingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prateeksingh2423@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=prateeksingh24&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=Mobile+and+web+apps+that+feel+fast;Flutter+%7C+Python+%7C+Node.js+%7C+Firebase;Applied+AI%2C+data+pipelines+and+clean+APIs;Debugging+and+pixel-perfect+UI" alt="Typing animation"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I'm **Prateek Singh**, co-founder and CTO of **[MarketDeck](https://marketdeck.in)**, a finance research platform built in Lucknow, India, together with my co-founder **[Sarthak Verma](https://www.linkedin.com/in/sarthak-verma-14053924b/)**. I build the product end to end: web, installable PWA and Android app, plus the data and deployment pipeline behind them.
+I'm a software engineer from India who builds clean, fast and scalable apps across mobile, web and backend. I enjoy turning messy real-world problems into simple products, writing tested code, and shipping reliably. I also work with applied AI and data pipelines, and I'm co-founder and CTO of [MarketDeck](https://marketdeck.in).
 
-- 🚀 Co-founder &amp; CTO, **[MarketDeck](https://marketdeck.in)** (2025 – present)
-- 🎓 BTech, Electronics and Computer Engineering, **IIIT Kota** (2022 – 2026)
-- 💼 Software Development Intern, **Taxian** (Dec 2024 – Feb 2025): secure payments and DigiLocker integrations
-- 📱 Specialty: cross-platform apps with Flutter (GetX, BLoC), fast and pixel-perfect UI
-- 🔭 Exploring: Web3, blockchain and DApp development
-- ⚡ Fun fact: I enjoy debugging and making UI pixel-perfect
+- 🎓 BTech in Electronics and Computer Engineering, **IIIT Kota** (2022 – 2026)
+- 💼 Software Development Intern, **Taxian** (Dec 2024 – Feb 2025)
+- 🚀 Co-founder &amp; CTO, **MarketDeck**: product, engineering, data and deployment
+- 📱 Cross-platform apps with Flutter: state management with GetX and BLoC
+- 🌐 Web: PWAs, Android (Trusted Web Activity), fast mobile-first UI
+- 🧠 Applied AI: LLM features with guardrails and cost control, AI-assisted engineering
+- 🔧 Backend and data: REST APIs, Python data pipelines, scheduled jobs, CI/CD
+- ⚡ Fun fact: I love debugging and making UI pixel-perfect
 
 ---
 
-### 🧩 What I'm Building
-| Project | What it is |
-|---|---|
-| [**MarketDeck**](https://marketdeck.in) | Finance research platform for Indian markets: charts, screeners, research tools. Web, installable PWA, Android. |
-| [**About the team**](https://marketdeck.in/about/) | The story behind MarketDeck and its two co-founders. |
+### 🧩 What I Do
+- **Mobile apps:** Flutter apps with Firebase, REST APIs, real-time features, payments and ID-verification integrations
+- **Web and PWA:** fast, accessible, mobile-first sites that install like apps
+- **Backend and data:** Node.js and Python services, data pipelines, automated integrity checks
+- **Applied AI:** LLM-powered features on cost-efficient models, with reviewed fixed text for sensitive topics
+- **Quality and delivery:** unit and browser tests, CI on GitHub Actions, safe releases with rollback plans
 
 ---
 
@@ -37,19 +44,25 @@ I'm **Prateek Singh**, co-founder and CTO of **[MarketDeck](https://marketdeck.i
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-**Languages:** Dart, Python, JavaScript, C, C++, Go  
-**Mobile and web:** Flutter, PWA, Android (Trusted Web Activity), HTML, CSS  
-**Backend:** Node.js, Express.js, Firebase (Auth, Firestore, Realtime DB), MongoDB  
-**DevOps:** Git, GitHub Actions, Codemagic, Docker, Cloudflare
+| | |
+|---|---|
+| **Languages** | Dart, Python, JavaScript, Go, C, C++ |
+| **Mobile and web** | Flutter (GetX, BLoC), PWA, service workers, Android (Trusted Web Activity), HTML, CSS |
+| **Backend and data** | Node.js, Express.js, Python pipelines, Firebase (Auth, Firestore, Realtime DB), MongoDB |
+| **AI and automation** | LLM integration (prompting, guardrails, cost control), AI-assisted engineering with Claude Code, MCP |
+| **DevOps and quality** | Git, GitHub Actions, Codemagic, Docker, Cloudflare, Playwright and unit tests |
+| **Design and tools** | Figma, Postman, WordPress |
 
 ---
 
@@ -74,7 +87,6 @@ I'm **Prateek Singh**, co-founder and CTO of **[MarketDeck](https://marketdeck.i
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://marketdeck.in"><img src="https://img.shields.io/badge/MarketDeck-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aprateeksingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:prateeksingh2423@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/prateek57349142"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -82,5 +94,3 @@ I'm **Prateek Singh**, co-founder and CTO of **[MarketDeck](https://marketdeck.i
 </p>
 
 > “The best way to predict the future is to create it.” — Alan Kay
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
